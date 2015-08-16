@@ -1,0 +1,16 @@
+
+Awesome convolution demo:
+
+	http://www.fit.vutbr.cz/study/courses/ISS/public/demos/conv/
+
+Rayleigh-Taylor instability videos:
+
+	https://www.youtube.com/watch?v=P8Cs2tO5w74
+	https://www.youtube.com/watch?v=SzqYnjIR4n0
+
+Kármán vortex streets:
+
+	https://en.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_vortex_street
+
+(Note that the videos at the bottom look like the one I showed in class because they're also ones I generated. I used to edit Wikipedia.)
+
