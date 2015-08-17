@@ -14,3 +14,7 @@ Kármán vortex streets:
 
 (Note that the videos at the bottom look like the one I showed in class because they're also ones I generated. I used to edit Wikipedia.)
 
+For the OpenGL stuff, look at my other project here:
+
+	https://github.com/petersn/jarlsberg
+
